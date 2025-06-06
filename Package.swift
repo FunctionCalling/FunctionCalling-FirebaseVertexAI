@@ -17,7 +17,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/fumito-ito/FunctionCalling", from: "0.5.0"),
-        .package(url: "https://github.com/firebase/firebase-ios-sdk.git", from: "11.13.0")
+        .package(url: "https://github.com/firebase/firebase-ios-sdk.git", from: "11.14.0")
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
